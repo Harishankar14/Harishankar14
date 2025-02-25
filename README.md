@@ -1,6 +1,6 @@
 # 
 
-🚀 **Status:** Currently compiling... _(ETA: Unknown, might need a hotfix.)_  
+🚀 **Status:** Currently compiling... _(hotfix.)_  
 💻 **Role:** Finding One..  
 🛠 **Skills:** Turning **"it works on my machine"** into **"why doesn’t it work anywhere else?"**  
 📌 **Current Mission:** Reducing tech debt, one commit at a time.  
