@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🖥 **Languages I Speak:** Python, C, C++, C#,trying to speak Assembly
 - 🛠️ **My Survival Kit**🏕️
-- Web Wizards: 🧙‍♂️✨ Django | Flask (Summoning APIs like magic)
+- Web Wizards: 🧙‍♂️✨ Django | Flask | Node js (never saying a goodbye to localhost:3000, 5000,real deployment never exisit!!)
 - API Whisperer: 📬 Postman (Because talking to APIs is an art)
 - Database Dungeons: 🏰 SQL | MongoDB | Supabase | Redis (Where I hoard my data treasures)
 - Shell Sorcery: 🐚 Shell Scripting (Automating my laziness since day one)
@@ -20,7 +20,7 @@
   - Training AI models that refuse to learn 🤖  
   - Debugging code that magically breaks when I present it 🐛  
   - Making **README** files look cooler than my actual projects 📜
-  - Debugging other organization's codes like a hero, while my own bugs enjoy a luxurious, all-inclusive stay in my repo. 
+  - Debugging other organizations' codes like a hero, while my own bugs enjoy a luxurious, all-inclusive stay in my repo. 
 
 ## 📌 Quote I Live By
 > *"Learn to use Binary Search properly. "*  
