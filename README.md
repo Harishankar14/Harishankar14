@@ -23,5 +23,5 @@
   - Debugging other organization's codes like a hero, while my own bugs enjoy a luxurious, all-inclusive stay in my repo. 
 
 ## 📌 Quote I Live By
-> *"99 little bugs in the code, 99 little bugs… take one down, patch it around, 127 little bugs in the code. "*  
+> *"Learn to use Binary Search properly. "*  
 
