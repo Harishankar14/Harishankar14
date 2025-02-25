@@ -7,7 +7,7 @@
 🔥 **Fun Fact:** I write **"TODOs"** in my code and then ignore them forever.  
 
 ## 🧑‍💻 About Me
-- 🖥 **Languages I Speak:** Python, Java, C++, and trying to speak Assembly
+- 🖥 **Languages I Speak:** Python, C, C++, C#,trying to speak Assembly
 - 🛠️ **My Survival Kit**🏕️
 - Web Wizards: 🧙‍♂️✨ Django | Flask (Summoning APIs like magic)
 - API Whisperer: 📬 Postman (Because talking to APIs is an art)
