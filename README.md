@@ -1,7 +1,7 @@
 # 
 
 🚀 **Status:** Currently compiling... _(ETA: Unknown, might need a hotfix.)_  
-💻 **Role:** Open Source Contributor, I guess i can debug better than your compiler, Assembly is lobe,  
+💻 **Role:** Finding One..  
 🛠 **Skills:** Turning **"it works on my machine"** into **"why doesn’t it work anywhere else?"**  
 📌 **Current Mission:** Reducing tech debt, one commit at a time.  
 🔥 **Fun Fact:** I write **"TODOs"** in my code and then ignore them forever.  
