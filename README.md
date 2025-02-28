@@ -23,5 +23,5 @@
   - Debugging other organizations' codes like a hero, while my own bugs enjoy a luxurious, all-inclusive stay in my repo. 
 
 ## 📌 Quote I Live By
-> *"Learn to use Binary Search properly. "*  
+> *"Stop refreshing ratings, start solving problems, and maybe—just maybe—you’ll stop failing test case 3. "*  
 
