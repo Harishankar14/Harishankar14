@@ -10,7 +10,7 @@
 - 🖥 **Languages I Speak:** Python, C, C++, C#,trying to speak Assembly
 - 🛠️ **My Survival Kit**🏕️
 - Web Wizards: 🧙‍♂️✨ Django | Flask | Node js (never saying a goodbye to localhost:3000, 5000! why ? real deployment never exisit!!)
-- API Whisperer: 📬 Postman (Because talking to APIs is an art)
+- API Whisperer: 📬 Postman 
 - Database Dungeons: 🏰 SQL | MongoDB | Supabase | Redis (Where I hoard my data treasures)
 - Shell Sorcery: 🐚 Shell Scripting (Automating my laziness since day one)
 - Deep Learning Madness: 🧠🔬 (Making machines smarter while I forget my passwords)
