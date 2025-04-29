@@ -22,6 +22,6 @@
   - Making **README** files look cooler than my actual projects 
   - Debugging other organizations' codes like a hero, while my own bugs enjoy a luxurious, all-inclusive stay in my repo. 
 
-## 📌 Quote I Live By
-> *"Stop refreshing ratings, start solving problems, and maybe—just maybe—you’ll stop failing test case 3. "*  
+
+> *"I Use Arch btw. "*  
 
